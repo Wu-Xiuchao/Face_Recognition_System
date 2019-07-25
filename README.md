@@ -28,6 +28,12 @@ Just put the picture into the file `face_data`  in **jpg** format. And then come
 
 `cd main` & `python tkinter_demo.py [video_path]`
 
+### You can download the model here
+
+https://drive.google.com/file/d/1BxeoBI4IbvZ2wMx_YA0zxQdD5hEIjJtJ/view?usp=sharing
+
+And put the file to `facenet/models/`
+
 ## Show the demo
 
 *The system will only check the biggest face on the frame*
